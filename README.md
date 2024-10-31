@@ -10,14 +10,15 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## Funcionalidades
 
-- 
-- 
-- 
-- 
+- Personalização de pedidos de pizza
+- Sistema de carrinho de compras
+- Suporte a autenticação de usuário
+- Gerenciamento de estoque em tempo real
 
 ## Stack utilizada
 
 **Front-end:** 
+React, React Router, Tailwind CSS, Lucide Icons
 
 **Back-end:** 
 
